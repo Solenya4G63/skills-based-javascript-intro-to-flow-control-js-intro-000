@@ -1,4 +1,5 @@
-function basicTeenager(age) {if(`${age}<13&&>19`){} else(`${age}>13&&<19`){return("You are a teenager!")} }
+function basicTeenager(age) {if(`${age}>13&&<19`){true} if(`${age}<13||>19`){false} 
+if(true){return"You are a teenager!"}}
 
 
 function teenager(age) { if(`${age}>13&&<19`) {return('You are a teenager!')}
