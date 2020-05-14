@@ -1,5 +1,5 @@
 function basicTeenager(age) {else if (true) {
-  
+
 }(`${age}>13&&<19`){return"You are a teenager!"} }
 
 
